@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "esm": "^3.2.25",
     "tone": "^15.0.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
   }
 }
